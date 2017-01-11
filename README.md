@@ -9,3 +9,8 @@ Random things from the Web
 1. [Bret Victor](http://worrydream.com/)
 2. [Hackery, Math & Design](http://acko.net/)
 
+
+## Geometry
+
+1. [2D Transforms 101] (https://github.com/legends2k/2d-transforms-101)
+2. [Spreading points on a disc and on a sphere] (http://blog.marmakoide.org/?p=1)
